@@ -21,6 +21,7 @@
     - Um site de uma consultoria que faz diversos tipos de coaching incluindo Agile Testing, tem bastante conteúdos consideráveis, criado por duas mulheres Karen Greaves e Sam Laing.
     - [Growing Agile: A Coach's Guide to Agile Testing](AgileTesting)
 
+  - [Pirâmide de Testes](https://martinfowler.com/articles/practical-test-pyramid.html)
   - Livros
     - [Agile Testing](http://agiletester.ca/agile-testing/)
       - [Mapa mental do livro](http://agiletester.ca/wp-content/uploads/sites/26/2013/09/AgileTestingFinalforBook.png)
@@ -54,6 +55,11 @@
     - [Parte 3](https://www.concretesolutions.com.br/2016/09/24/especificacao-por-exemplo-3/)
   - [By Martin Fowler](https://martinfowler.com/bliki/SpecificationByExample.html)
   - [Livro](https://gojko.net/books/specification-by-example/)
+
+# Padrão de Projetos para Teste
+ - [Design Patterns in Test Automation I](https://www.linkedin.com/pulse/design-patterns-test-automation-i-alex-ilyenko/)
+ - [Design Patterns in Test Automation II](https://goo.gl/juYyTo)
+ - [Design Patterns in Test Automation III](https://goo.gl/W5266e)
 
 # Mobile
 
@@ -181,7 +187,7 @@
   - [Writing Automated Tests for Accessibility](https://www.24a11y.com/2017/writing-automated-tests-accessibility/)
   - [Mobile Testing Guide
 ANDROID & iOS](https://developer.paciellogroup.com/downloads/TPG_Mobile_Testing_Guide.pdf)
-  - [BBC - MOBILE ACCESSIBILITY GUIDELINES](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile) 
+  - [BBC - MOBILE ACCESSIBILITY GUIDELINES](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile)
 
 # Teste de Segurança
   - [OWASP](https://www.owasp.org/index.php/Main_Page)
